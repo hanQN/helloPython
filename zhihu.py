@@ -106,7 +106,7 @@ def login(baseurl, phone_num, password):
 	f.write(s.content.encode('utf-8'))
 	
 url = 'https://www.zhihu.com'
-login(url,'18373634732','nan19920927')
+login(url,'nickname','password')
 #getContent(url)
 
 	
