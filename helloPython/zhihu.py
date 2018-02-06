@@ -130,8 +130,8 @@ def getUrls(baseurl, phone_num, password):
 			print 'imgs[0]:',imgs[0]
 		
 url = 'https://www.zhihu.com'
-#login(url,'18373634732','nan19920927')
-getUrls(url,'18373634732','nan19920927')
+#login(url,'nickname','password')
+getUrls(url,'nickname','password')
 #getContent(url)
 
 	
